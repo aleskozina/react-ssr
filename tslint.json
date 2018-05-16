@@ -1,0 +1,8 @@
+{
+    "extends": "@aleskozina/tslint",
+    "linterOptions": {
+        "exclude": [
+            "**/node_modules/**/*"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+# node
+node_modules
+*.log
+
+# nextjs
+.next
+
+# os
+.DS_Store
+
+# editor
+.idea
+.vscode
