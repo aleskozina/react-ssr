@@ -1,14 +1,10 @@
 {
-  "name": "@aleskozina/react-ssr",
+  "name": "react-ssr",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "lint": "tslint --project tsconfig.json --format stylish",
-    "lint:fix": "tslint --fix --project tsconfig.json --format stylish"
+    "start": "next start"
   },
   "author": "",
   "license": "ISC",
